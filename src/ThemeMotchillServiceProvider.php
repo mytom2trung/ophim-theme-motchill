@@ -146,6 +146,7 @@ class ThemeMotchillServiceProvider extends ServiceProvider
                                     </p>
                                     <p>Website motchill với giao diện trực quan, thuận tiện, tốc độ tải nhanh, thường xuyên cập nhật các
                                         bộ phim mới hứa hẹn sẽ đem lại những trải nghiệm tốt cho người dùng.</p>
+                                    <p style="float:right;">Contact: <b><a target="_blank" href="https://t.me/animehayassmin">animehayassmin</a></b></p>
                                 </div>
                             </div>
                         </div>

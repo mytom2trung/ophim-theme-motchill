@@ -143,7 +143,7 @@ class ThememotchillController
             'data' => $movies,
             'category' => $category,
             'title' => $category->seo_title ?: $category->getTitle(),
-            'section_name' => "Phim thể loại $category->name"
+            'section_name' => "Phim $category->name"
         ]);
     }
 
