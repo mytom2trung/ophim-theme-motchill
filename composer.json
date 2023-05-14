@@ -1,10 +1,10 @@
 {
-    "name": "phimminhtnl/ophim-theme-motchill",
+    "name": "phamminhtnl/ophim-theme-motchill",
     "description": "Ophim's motchill theme",
     "type": "library",
     "authors": [
         {
-            "name": "phimminhtnl",
+            "name": "phamminhtnl",
             "email": "no-email@no-email.com"
         }
     ],
